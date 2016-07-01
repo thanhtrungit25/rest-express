@@ -1,7 +1,7 @@
 # rest-express
 Building NodeJS REST API Services with Express
 
-# Các bước khi chạy source
+# Instruction:
 - Install modules in package.json
   - $ npm install
 - Start server run REST API NodeJS (index.js)
